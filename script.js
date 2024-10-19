@@ -31,8 +31,8 @@ const projects = [
       tech3: 'javaScript',
     },
     image: './images/todolists.PNG',
-    live: 'https://rugwizangoga.github.io/Todo-list-app/dist/',
-    source: 'https://github.com/rugwizangoga/Todo-list-app.git',
+    live: 'https://github.com/DoughlasMuthoni',
+    source: 'https://github.com/DoughlasMuthoni',
   },
 
   {
@@ -49,8 +49,8 @@ const projects = [
       tech3: 'javaScript',
     },
     image: './images/Awesom.PNG',
-    live: 'https://rugwizangoga.github.io/Awesome-books-ES6/',
-    source: 'https://github.com/rugwizangoga/Awesome-books-ES6.git',
+    live: 'https://github.com/DoughlasMuthoni',
+    source: 'https://github.com/DoughlasMuthoni',
   },
 
   {
@@ -68,8 +68,8 @@ const projects = [
       tech3: 'javaScript',
     },
     image: './images/Leader.PNG',
-    live: 'https://rugwizangoga.github.io/Leaderboard/dist/',
-    source: 'https://github.com/rugwizangoga/Leaderboard.git',
+    live: 'https://github.com/DoughlasMuthoni',
+    source: 'https://github.com/DoughlasMuthoni',
   },
 
   {
@@ -87,8 +87,8 @@ const projects = [
       tech3: 'javaScript',
     },
     image: './images/Festival.PNG',
-    live: 'https://rugwizangoga.github.io/East-African-Music-Festival-/',
-    source: 'https://github.com/rugwizangoga/East-African-Music-Festival-.git',
+    live: 'https://github.com/DoughlasMuthoni',
+    source: 'https://github.com/DoughlasMuthoni',
   },
 ];
 let count = 1;
